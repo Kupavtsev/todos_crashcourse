@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todos_crashcourse/static/css/main.dcf23bd0.chunk.css",
+    "main.js": "/todos_crashcourse/static/js/main.784a0463.chunk.js",
+    "main.js.map": "/todos_crashcourse/static/js/main.784a0463.chunk.js.map",
+    "runtime-main.js": "/todos_crashcourse/static/js/runtime-main.6d181bf2.js",
+    "runtime-main.js.map": "/todos_crashcourse/static/js/runtime-main.6d181bf2.js.map",
+    "static/js/2.d3520680.chunk.js": "/todos_crashcourse/static/js/2.d3520680.chunk.js",
+    "static/js/2.d3520680.chunk.js.map": "/todos_crashcourse/static/js/2.d3520680.chunk.js.map",
+    "index.html": "/todos_crashcourse/index.html",
+    "precache-manifest.8848384a9f7df9f6291ce4a579f7cabd.js": "/todos_crashcourse/precache-manifest.8848384a9f7df9f6291ce4a579f7cabd.js",
+    "service-worker.js": "/todos_crashcourse/service-worker.js",
+    "static/css/main.dcf23bd0.chunk.css.map": "/todos_crashcourse/static/css/main.dcf23bd0.chunk.css.map",
+    "static/js/2.d3520680.chunk.js.LICENSE.txt": "/todos_crashcourse/static/js/2.d3520680.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d181bf2.js",
+    "static/js/2.d3520680.chunk.js",
+    "static/css/main.dcf23bd0.chunk.css",
+    "static/js/main.784a0463.chunk.js"
+  ]
+}
